@@ -3,12 +3,11 @@ package org.shanerx.buildtools;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.PrintStream;
 import java.util.Date;
 
 public class Application {
 
-	public static final String URL = "https://github.com/SparklingComet/TradeShop";
+	public static final String URL = "------------ADD YOUR OWN URL HERE------------";
 
 	public static void main(String[] args) {
 		long millis = System.currentTimeMillis();
